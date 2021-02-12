@@ -10,3 +10,9 @@ After exporting my spreadsheet as a csv file, I made a script to manipulate the 
 For visualizing data, I used R's ggplot2 library. The code can be found in the analysis.R file.
 
 Right off the bat, I wanted to see how the number of posts per day changed throughout the month. To visualize this, I plotted a lineplot.
+
+<img src="/Graphs/day_count.png" width="800" height="400">
+
+
+From the lineplot above, there doesn't appear to be any pattern. The number of posts per day seem to fluctuate and is hard to predict. However, there is a reason as to why there are two large peaks which would only be known to someone who browses the subreddit. The first peak is due to the announcement of the Hololive English branch, and the second is due to a major controversy. However, outside of these rare events, it looks subreddit popularity remains relatively stable. 
+
