@@ -14,7 +14,7 @@ Right off the bat, I wanted to see how the number of posts per day changed throu
 <img src="/Graphs/day_count.png" width="800" height="400">
 
 
-From the lineplot above, there doesn't appear to be any pattern. The number of posts per day seem to fluctuate and is hard to predict. However, there is a reason as to why there are two large peaks which would only be known to someone who browses the subreddit. The first peak is due to the announcement of the Hololive English branch, and the second is due to a major controversy. However, outside of these rare events, it looks subreddit popularity remains relatively stable. 
+From the lineplot above, there doesn't appear to be any pattern. The number of posts per day seem to fluctuate and is hard to predict. Although there are two peaks in the plot, the first can be explained by the announcement of the Hololive English branch which many people were excited for, and the second can be explained by a controversy that angered many people. Outside of these rare events, the number of posts seem to be growing, albeit not as much.  
 
 The next thing that I want to look at is the total number of posts distributed throughout the days of the week. Even before visualizing the data, I assumed that the weekend (Friday, Saturday, and Sunday) would have a significantly higher average of new submissions since there will be more people with free time. To investigate this, I created a plot of several boxplots, each boxplot corresponding to a day of the week. 
 
@@ -34,6 +34,6 @@ Now, doing the same process as before, I want to see the number of memes being p
 
 Not surprisingly, the boxplots for memes are quite similar in shape compared to the boxplots for the total number of posts. Once again, Saturday and Sunday have the highest maximum. However, this time, there are outliers on Saturday and Thursday. 
 
-In conclusion, there doesn't seem to be any signs of consistent growth on the Hololive subreddit based on the number of submissions throughout the month of September 2020. However, from this analysis, I found out that memes make up about half of the number of posts made on the subreddit. This is a pretty large number especially since there are over a dozen different flairs to use. I knew that many memes were being posted, but I did not know it was to this extent. 
+In conclusion, there doesn't seem to be any signs of large growth on the Hololive subreddit based on the number of submissions throughout the month of September 2020 when excluding the two major events that occurred during that month. However, from this analysis, I found out that memes make up about half of the number of posts made on the subreddit. This is a pretty large number especially since there are over a dozen different flairs to use. I knew that many memes were being posted, but I did not know it was to this extent. 
 
 With my analysis of September 2020 completed, I will be waiting until March 2021 to collect data again and compare the subreddit popularity from six months ago. I expect a massive increase, considering how much Hololive streamers have grown in terms of subscribers over the last few months. 
